@@ -1,0 +1,24 @@
+{
+    "login":
+    [
+        {
+            "id": "1",
+            "usuario": "User Um",
+            "email": "email-um@email.com",
+            "telefone": "19 999 9999",
+            "senha": "admin"
+        }, {
+            "id": "2",
+            "usuario": "User Dois",
+            "email": "email-dois@email.com",
+            "telefone": "19 999 9999",
+            "senha": "admin123"
+        }, {
+            "id": "3",
+            "usuario": "User Três",
+            "email": "email-tres@email.com",
+            "telefone": "19 999 9999",
+            "senha": "admin123"
+        }
+    ]
+}
